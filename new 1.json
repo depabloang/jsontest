@@ -1,0 +1,14 @@
+
+{
+"titulo": "Star Wars",
+"genero": "Ciencia ficción",
+"premios": ["Oscar efectos especiales", "SAG"],
+"sinopsis": "En una galaxia muy lejana...",
+"reparto": [
+{	
+	"principales": "Mark Hamil, Carrie Fisher",
+	"secundarios": "Harrison Ford",
+}
+]
+
+}
